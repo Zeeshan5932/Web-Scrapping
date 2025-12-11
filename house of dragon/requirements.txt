@@ -1,0 +1,8 @@
+# filepath: f:\eFaida\house of dragon\requirements.txt
+selenium==4.15.2
+webdriver-manager==4.0.1
+requests==2.31.0
+fake-useragent==1.4.0
+beautifulsoup4==4.12.2  # For HTML parsing (optional)
+lxml==4.9.3  # For faster HTML parsing (optional)
+tqdm==4.66.1  # For progress bars (optional)

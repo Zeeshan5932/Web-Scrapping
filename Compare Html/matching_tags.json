@@ -1,0 +1,362 @@
+[
+    {
+        "Tag Name": "style",
+        "Inner Text": "@charset \"UTF-8\";[ng\\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}",
+        "File1 Start Line": 3,
+        "File1 End Line": 6,
+        "File2 Start Line": 3,
+        "File2 End Line": 6
+    },
+    {
+        "Tag Name": "script",
+        "Inner Text": "(function (w, d, s, l, i) {\r\n            w[l] = w[l] || []; w[l].push({\r\n                'gtm.start':\r\n                    new Date().getTime(), event: 'gtm.js'\r\n            }); var f = d.getElementsByTagName(s)[0],\r\n                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =\r\n                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);\r\n        })(window, document, 'script', 'dataLayer', 'GTM-52ZPQLZ');",
+        "File1 Start Line": 11,
+        "File1 End Line": 21,
+        "File2 Start Line": 13,
+        "File2 End Line": 23
+    },
+    {
+        "Tag Name": "script",
+        "Inner Text": "function OptanonWrapper() { }",
+        "File1 Start Line": 27,
+        "File1 End Line": 30,
+        "File2 Start Line": 29,
+        "File2 End Line": 32
+    },
+    {
+        "Tag Name": "style",
+        "Inner Text": ".home-explore-video:before {\r\n            background-image: url(\"data:image/svg+xml;charset=utf8,%3Csvg id='stripe-svg' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 10'%3E%3Cpath d='M-1,1 l2,-2 M0,10 l10,-10 M9,11 l2,-2' stroke='%23000' opacity='0.15' stroke-width='1' /%3E%3C/svg%3E\");\r\n        }",
+        "File1 Start Line": 65,
+        "File1 End Line": 70,
+        "File2 Start Line": 67,
+        "File2 End Line": 72
+    },
+    {
+        "Tag Name": "script",
+        "Inner Text": "//<![CDATA[\r\n(function()\r\n{\r\nvar sz = document.createElement('script'); \r\nsz.type = 'text/javascript'; \r\nsz.src = '//site' + 'improveanalytics.com/js/siteanalyze_61282519.js'; \r\nsz.async = true; \r\nvar s = document.getElementsByTagName('script')[0]; \r\ns.parentNode.insertBefore(sz, s); \r\n}\r\n)(); \r\n//]]>",
+        "File1 Start Line": 280,
+        "File1 End Line": 294,
+        "File2 Start Line": 133,
+        "File2 End Line": 147
+    },
+    {
+        "Tag Name": "a",
+        "Inner Text": "Skip to content",
+        "File1 Start Line": 295,
+        "File1 End Line": 298,
+        "File2 Start Line": 148,
+        "File2 End Line": 151
+    },
+    {
+        "Tag Name": "span",
+        "Inner Text": "Skadden, Arps, Slate, Meagher & Flom LLP and Affiliates",
+        "File1 Start Line": 305,
+        "File1 End Line": 308,
+        "File2 Start Line": 158,
+        "File2 End Line": 161
+    },
+    {
+        "Tag Name": "span",
+        "Inner Text": "Home",
+        "File1 Start Line": 313,
+        "File1 End Line": 316,
+        "File2 Start Line": 166,
+        "File2 End Line": 169
+    },
+    {
+        "Tag Name": "span",
+        "Inner Text": "/",
+        "File1 Start Line": 318,
+        "File1 End Line": 321,
+        "File2 Start Line": 171,
+        "File2 End Line": 174
+    },
+    {
+        "Tag Name": "span",
+        "Inner Text": "Professionals",
+        "File1 Start Line": 324,
+        "File1 End Line": 327,
+        "File2 Start Line": 177,
+        "File2 End Line": 180
+    },
+    {
+        "Tag Name": "span",
+        "Inner Text": "/",
+        "File1 Start Line": 329,
+        "File1 End Line": 332,
+        "File2 Start Line": 171,
+        "File2 End Line": 174
+    },
+    {
+        "Tag Name": "span",
+        "Inner Text": "Search",
+        "File1 Start Line": 343,
+        "File1 End Line": 346,
+        "File2 Start Line": 196,
+        "File2 End Line": 199
+    },
+    {
+        "Tag Name": "span",
+        "Inner Text": "Menu",
+        "File1 Start Line": 350,
+        "File1 End Line": 353,
+        "File2 Start Line": 203,
+        "File2 End Line": 206
+    },
+    {
+        "Tag Name": "div",
+        "Inner Text": "Partner,",
+        "File1 Start Line": 370,
+        "File1 End Line": 376,
+        "File2 Start Line": 223,
+        "File2 End Line": 229
+    },
+    {
+        "Tag Name": "span",
+        "Inner Text": "T:",
+        "File1 Start Line": 383,
+        "File1 End Line": 386,
+        "File2 Start Line": 236,
+        "File2 End Line": 239
+    },
+    {
+        "Tag Name": "button",
+        "Inner Text": "Bio",
+        "File1 Start Line": 448,
+        "File1 End Line": 451,
+        "File2 Start Line": 304,
+        "File2 End Line": 307
+    },
+    {
+        "Tag Name": "a",
+        "Inner Text": "Bio",
+        "File1 Start Line": 453,
+        "File1 End Line": 456,
+        "File2 Start Line": 309,
+        "File2 End Line": 312
+    },
+    {
+        "Tag Name": "a",
+        "Inner Text": "Recent Insights & News",
+        "File1 Start Line": 458,
+        "File1 End Line": 461,
+        "File2 Start Line": 314,
+        "File2 End Line": 317
+    },
+    {
+        "Tag Name": "a",
+        "Inner Text": "Credentials",
+        "File1 Start Line": 463,
+        "File1 End Line": 466,
+        "File2 Start Line": 319,
+        "File2 End Line": 322
+    },
+    {
+        "Tag Name": "h2",
+        "Inner Text": "Related Capabilities",
+        "File1 Start Line": 474,
+        "File1 End Line": 477,
+        "File2 Start Line": 330,
+        "File2 End Line": 333
+    },
+    {
+        "Tag Name": "h2",
+        "Inner Text": "Bio",
+        "File1 Start Line": 499,
+        "File1 End Line": 502,
+        "File2 Start Line": 365,
+        "File2 End Line": 368
+    },
+    {
+        "Tag Name": "h2",
+        "Inner Text": "Recent Insights & News",
+        "File1 Start Line": 558,
+        "File1 End Line": 561,
+        "File2 Start Line": 472,
+        "File2 End Line": 475
+    },
+    {
+        "Tag Name": "h2",
+        "Inner Text": "Credentials",
+        "File1 Start Line": 584,
+        "File1 End Line": 587,
+        "File2 Start Line": 605,
+        "File2 End Line": 608
+    },
+    {
+        "Tag Name": "h3",
+        "Inner Text": "Education",
+        "File1 Start Line": 590,
+        "File1 End Line": 593,
+        "File2 Start Line": 611,
+        "File2 End Line": 614
+    },
+    {
+        "Tag Name": "h3",
+        "Inner Text": "Admissions",
+        "File1 Start Line": 608,
+        "File1 End Line": 611,
+        "File2 Start Line": 634,
+        "File2 End Line": 637
+    },
+    {
+        "Tag Name": "div",
+        "Inner Text": "Partner,",
+        "File1 Start Line": 632,
+        "File1 End Line": 638,
+        "File2 Start Line": 223,
+        "File2 End Line": 229
+    },
+    {
+        "Tag Name": "span",
+        "Inner Text": "T:",
+        "File1 Start Line": 648,
+        "File1 End Line": 651,
+        "File2 Start Line": 236,
+        "File2 End Line": 239
+    },
+    {
+        "Tag Name": "a",
+        "Inner Text": "Contact Us",
+        "File1 Start Line": 665,
+        "File1 End Line": 668,
+        "File2 Start Line": 741,
+        "File2 End Line": 744
+    },
+    {
+        "Tag Name": "a",
+        "Inner Text": "Legal Notices",
+        "File1 Start Line": 670,
+        "File1 End Line": 673,
+        "File2 Start Line": 746,
+        "File2 End Line": 749
+    },
+    {
+        "Tag Name": "a",
+        "Inner Text": "Disclaimers",
+        "File1 Start Line": 675,
+        "File1 End Line": 678,
+        "File2 Start Line": 751,
+        "File2 End Line": 754
+    },
+    {
+        "Tag Name": "a",
+        "Inner Text": "Privacy Statement",
+        "File1 Start Line": 680,
+        "File1 End Line": 683,
+        "File2 Start Line": 756,
+        "File2 End Line": 759
+    },
+    {
+        "Tag Name": "a",
+        "Inner Text": "Cookies Policy",
+        "File1 Start Line": 685,
+        "File1 End Line": 688,
+        "File2 Start Line": 761,
+        "File2 End Line": 764
+    },
+    {
+        "Tag Name": "a",
+        "Inner Text": "Technology Overview",
+        "File1 Start Line": 690,
+        "File1 End Line": 693,
+        "File2 Start Line": 766,
+        "File2 End Line": 769
+    },
+    {
+        "Tag Name": "a",
+        "Inner Text": "Attorney Advertising",
+        "File1 Start Line": 695,
+        "File1 End Line": 698,
+        "File2 Start Line": 771,
+        "File2 End Line": 774
+    },
+    {
+        "Tag Name": "a",
+        "Inner Text": "Alumni Login",
+        "File1 Start Line": 703,
+        "File1 End Line": 708,
+        "File2 Start Line": 779,
+        "File2 End Line": 784
+    },
+    {
+        "Tag Name": "a",
+        "Inner Text": "Skadden Foundation",
+        "File1 Start Line": 710,
+        "File1 End Line": 715,
+        "File2 Start Line": 786,
+        "File2 End Line": 791
+    },
+    {
+        "Tag Name": "a",
+        "Inner Text": "Skadden.com",
+        "File1 Start Line": 735,
+        "File1 End Line": 738,
+        "File2 Start Line": 811,
+        "File2 End Line": 814
+    },
+    {
+        "Tag Name": "span",
+        "Inner Text": "2025 Skadden, Arps, Slate, Meagher & Flom LLP and Affiliates",
+        "File1 Start Line": 738,
+        "File1 End Line": 741,
+        "File2 Start Line": 814,
+        "File2 End Line": 817
+    },
+    {
+        "Tag Name": "h2",
+        "Inner Text": "Main Menu",
+        "File1 Start Line": 745,
+        "File1 End Line": 748,
+        "File2 Start Line": 821,
+        "File2 End Line": 824
+    },
+    {
+        "Tag Name": "a",
+        "Inner Text": "Capabilities",
+        "File1 Start Line": 751,
+        "File1 End Line": 754,
+        "File2 Start Line": 827,
+        "File2 End Line": 830
+    },
+    {
+        "Tag Name": "a",
+        "Inner Text": "Professionals",
+        "File1 Start Line": 756,
+        "File1 End Line": 759,
+        "File2 Start Line": 832,
+        "File2 End Line": 835
+    },
+    {
+        "Tag Name": "a",
+        "Inner Text": "Insights",
+        "File1 Start Line": 761,
+        "File1 End Line": 764,
+        "File2 Start Line": 837,
+        "File2 End Line": 840
+    },
+    {
+        "Tag Name": "a",
+        "Inner Text": "About",
+        "File1 Start Line": 768,
+        "File1 End Line": 771,
+        "File2 Start Line": 844,
+        "File2 End Line": 847
+    },
+    {
+        "Tag Name": "a",
+        "Inner Text": "Locations",
+        "File1 Start Line": 773,
+        "File1 End Line": 776,
+        "File2 Start Line": 849,
+        "File2 End Line": 852
+    },
+    {
+        "Tag Name": "a",
+        "Inner Text": "Careers",
+        "File1 Start Line": 778,
+        "File1 End Line": 781,
+        "File2 Start Line": 854,
+        "File2 End Line": 857
+    }
+]

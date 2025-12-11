@@ -1,0 +1,24 @@
+{
+    "title": "House of the Dragon",
+    "data_source": "HBO",
+    "scrape_date": "2025-06-10 18:23:24",
+    "episodes": [
+        {
+            "title": "Test Episode",
+            "episode_number": "S01E01",
+            "description": "Test description",
+            "url": "https://example.com/episode1"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Test Character",
+            "actor": "Test Actor",
+            "description": "Test character description",
+            "url": "https://example.com/character1"
+        }
+    ],
+    "news": [],
+    "metadata": {},
+    "scrape_timestamp": "2025-06-10 18:23:24"
+}

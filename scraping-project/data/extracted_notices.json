@@ -1,0 +1,67 @@
+{
+  "notice-1": {
+    "notice_date": "",
+    "publication_name": "",
+    "location_name": "",
+    "street_address": "",
+    "city": "",
+    "state": "",
+    "zip_code": "",
+    "auction_site_used": "",
+    "count_of_tenants": 0,
+    "all_tenants": [],
+    "full_notice_text": ""
+  },
+  "notice-2": {
+    "notice_date": "",
+    "publication_name": "",
+    "location_name": "",
+    "street_address": "",
+    "city": "",
+    "state": "",
+    "zip_code": "",
+    "auction_site_used": "",
+    "count_of_tenants": 0,
+    "all_tenants": [],
+    "full_notice_text": ""
+  },
+  "notice-3": {
+    "notice_date": "",
+    "publication_name": "",
+    "location_name": "",
+    "street_address": "",
+    "city": "",
+    "state": "",
+    "zip_code": "",
+    "auction_site_used": "",
+    "count_of_tenants": 0,
+    "all_tenants": [],
+    "full_notice_text": ""
+  },
+  "notice-4": {
+    "notice_date": "",
+    "publication_name": "",
+    "location_name": "",
+    "street_address": "",
+    "city": "",
+    "state": "",
+    "zip_code": "",
+    "auction_site_used": "",
+    "count_of_tenants": 0,
+    "all_tenants": [],
+    "full_notice_text": ""
+  },
+  "notice-5": {
+    "notice_date": "",
+    "publication_name": "",
+    "location_name": "",
+    "street_address": "",
+    "city": "",
+    "state": "",
+    "zip_code": "",
+    "auction_site_used": "",
+    "count_of_tenants": 0,
+    "all_tenants": [],
+    "full_notice_text": ""
+  }
+}
